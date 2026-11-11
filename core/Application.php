@@ -1,7 +1,5 @@
 <?php
 
-
-            /* "Jonat\\PhpMvcPractice\\": "src/" */
     
     namespace app\core;
 
