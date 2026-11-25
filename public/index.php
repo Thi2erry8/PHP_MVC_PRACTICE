@@ -13,4 +13,6 @@
          return 'Hello Word' ;
      });
 
+     $app->router->get('/contact','contact');
+
      $app->run();
